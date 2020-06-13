@@ -1680,3 +1680,12 @@ h1, h2, h3, h4, h5,
     position: relative;
     z-index: 1;
     max-width: 80px; }
+
+
+  .large-content{
+    left: 50%;
+    opacity: 0.8;
+    max-width: none;
+    width: 1037px;
+    height: 599px;
+  }
