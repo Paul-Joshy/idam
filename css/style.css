@@ -1671,7 +1671,12 @@ h1, h2, h3, h4, h5,
     font-size: 16px; }
     .service-29193 h3 a {
       color: white; }
-  .service-29193 .img-wrap {
+    .service-29193 p {
+      font-size: 14px;
+      text-align: justify;
+      color: white; }
+.service-29193 .img-wrap {
+    margin-top: 24px;
     margin-bottom: 40px;
     display: block;
     position: relative;
@@ -1698,7 +1703,7 @@ h1, h2, h3, h4, h5,
 .service-29193.text-center {
   background: grey;
   margin: 0px !important;
-  padding: 9px !important;
+  padding: 20px !important;
 }
 
 .margin-small {
@@ -1707,5 +1712,27 @@ h1, h2, h3, h4, h5,
 
 .first-para{
   margin-top: -27px;
+}
+
+a.img-link.project-images{
+  margin-bottom: 11px !important;
+}
+
+.media-02819.project-images{
+  margin-bottom: 30px !important;
+}
+
+.h-100.bg-white.box-29291.project-content{
+  margin-top: 0px !important;
+  padding-top: 0px !important;
+}
+
+.project-content .paragraph{
+  margin-bottom: 10px;
+}
+
+.project-content .paragraph > p{
+  margin-bottom: 0px;
+  font-size: 14px;
 }
 
